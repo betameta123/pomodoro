@@ -1,0 +1,13 @@
+[package]
+name = "pomodoro"
+version = "0.1.0"
+authors = ["betameta123 <kylehuang13@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3"
+notify-rust = "4"
+play = "0.5.3"
+device_query = "0.2.8"
